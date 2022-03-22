@@ -135,7 +135,7 @@ single page navigation.`,
     tech: `Tech Stack: HTML | CSS | JavaScript `,
     img: "https://miro.medium.com/max/700/1*Kx1Lkbb-JnLBwUIzXRkHLw.png",
     github: "https://github.com/daniyal4engg/expedia",
-    //link: "https://frontend-masters.herokuapp.com/"
+    link: "https://dazzling-pithivier-eb2792.netlify.app/"
   },
   {
     id: 2,
