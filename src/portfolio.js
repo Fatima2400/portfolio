@@ -16,7 +16,7 @@ export const main = {
   name: "Fatima Deshmukh",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1BWp8QHTXrpARH9JlR4H3hwCJXIacIJqn/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1To2c_ph7jxeMmqO98iC18mY8DGPvE5BF?usp=sharing",
 };
 
 // AboutMe
