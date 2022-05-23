@@ -127,15 +127,15 @@ export const whatido = {
 export const details = [
   {
     id: 1,
-    title: "Expedia Clone",
-    desc: `Expedia is an online travel agency.The website and mobile app can be used to book airline tickets, hotel reservations, car rentals, cruise ships, and vacation packages. `,
+    title: "Bohemian (E-commerce Website)",
+    desc: `Bohemian is an e-commerce website, solo project made by me for the unit-6 of Masai School. `,
     feature: `Landing page,
-explore various booking options,
-single page navigation.`,
-    tech: `Tech Stack: HTML | CSS | JavaScript `,
-    img: "https://miro.medium.com/max/700/1*Kx1Lkbb-JnLBwUIzXRkHLw.png",
-    github: "https://github.com/daniyal4engg/expedia",
-    link: "https://dazzling-pithivier-eb2792.netlify.app/"
+product listing for caterories like fashion,homeware and accessories,Product detail page,
+sorting and filter, add to cart functionality, order summary on the checkout page.`,
+    tech: `Tech Stack: REACT REDUX |HTML | CSS | JavaScript `,
+    img: "https://user-images.githubusercontent.com/96168561/169825394-7f9a2904-74b3-4cba-9e23-e743305a5c9b.png",
+    github: "https://github.com/Fatima2400/bohemian",
+    link: "https://bohemian.vercel.app/"
   },
   {
     id: 2,
